@@ -95,6 +95,9 @@
     "@babel/runtime": "^7.26.10",
     "element-ui": {
       "async-validator": "^4.0.4"
+    },
+    "@vue/compiler-sfc": {
+      "postcss": "^8.5.23"
     }
   },
   "resolutions": {
